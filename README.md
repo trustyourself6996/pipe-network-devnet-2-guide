@@ -23,6 +23,6 @@ Check points
 ./pop --points
 Generate referral
 ./pop --gen-referral-route
-To Start Next Day, Run THE Start The Node COMMAND
+To Start Next Day, Run THE Start The Node COMMANDgk
 thanks you
 
