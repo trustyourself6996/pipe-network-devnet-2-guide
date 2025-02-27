@@ -17,6 +17,7 @@ Save the file (Very Important) 🏮
 nano ~/node_info.json
 Ctrl+x to Exit
 
+
 Node Status
 ./pop --status
 Check points
