@@ -6,6 +6,7 @@ chmod +x pop
 Make Directory
 mkdir download_cache
 Sign-up With Command
+
  ./pop --signup-by-referral-route d93ec7a125f095ab
 Start The Node
 sudo ./pop --ram 8 --max-disk 500 --cache-dir /data --pubKey <KEY> 
